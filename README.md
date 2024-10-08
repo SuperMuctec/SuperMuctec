@@ -10,13 +10,13 @@ I'm [Your Name], a passionate Python Developer with over 4 years of experience i
 - ⚡ Fun fact: I enjoy creating music in my free time!
 
 ## 🔧 Tech Stack
-- **Languages**: Python, JavaScript
-- **Frameworks**: Flask, Django, React
-- **Tools**: Git, Docker, VS Code
+- **Languages**: Python, Java, SQL
+- **Frameworks**: Discord PY, Tkinter, SQL-Lite
+- **Tools**: Git, Bash, VS Code
 
 ## 📚 Projects
-- [Discord Bot - Anime Runner](https://github.com/yourusername/AnimeRunner): A bot that provides anime-related stats and notifications.
-- [Machine Learning Projects](https://github.com/yourusername/MachineLearning): Various machine learning projects showcasing different algorithms and datasets.
+- [Discord Bot - Weather Forecast](https://github.com/SuperMuctec/Weather-Forecast/): A simple weather forecast app in Java (My Second Language)
+- [Machine Learning Projects](): Various machine learning projects showcasing different algorithms and datasets.
 
 ## 📊 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
