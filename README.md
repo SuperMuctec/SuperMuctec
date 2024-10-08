@@ -20,9 +20,8 @@ I'm Supermuctec, a passionate Python Developer with over 4 years of experience i
 ## 📊 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-## 🌐 Connect with Me
-- **Discord**: supermutec
-- **YouTube**: [Your YouTube Channel](https://youtube.com/@_TheBritGuy_)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@_TheBritGuy_)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1062747923294716006)
 
 Feel free to reach out to me for freelancing projects related to Discord bots. I'm open to collaboration and eager to help you build and improve your Discord applications!
 
