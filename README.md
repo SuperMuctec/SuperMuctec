@@ -1,11 +1,10 @@
 <!-- Banner or Header Image (optional, upload a custom image to your GitHub or use an external image) -->
-<p align="center">
-  ![Animated Link](https://imgur.com/adlcJGY)
-</p>
 
 # Hi, I'm [Your Name] 👋
 
 I'm a **[Your Role]** and passionate about building efficient and scalable applications. Welcome to my GitHub profile!
+
+![Animated Welcome GIF](https://i.imgur.com/adlcJGY.gif)
 
 <p align="center">
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-3498db?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"></a>
