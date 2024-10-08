@@ -3,20 +3,20 @@
 I'm Supermuctec, a passionate Python Developer with over 4 years of experience in creating innovative solutions.
 
 
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<br><br><br>
 
 
 
