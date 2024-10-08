@@ -1,26 +1,31 @@
-<!-- Banner or Header Image (optional, upload a custom image to your GitHub or use an external image) -->
+# Welcome to My GitHub Profile! 👋
 
-# Hi, I'm [Your Name] 👋
+I'm [Your Name], a passionate Python Developer with over 4 years of experience in creating innovative solutions.
 
-I'm a **[Your Role]** and passionate about building efficient and scalable applications. Welcome to my GitHub profile!
+## 🚀 About Me
+- 🔭 I’m currently working on: A Discord bot that enhances user experience.
+- 🌱 I’m learning: Machine Learning and AI.
+- 👯 I’m looking to collaborate on: Open source projects and interesting challenges.
+- 💬 Ask me about: Python, APIs, and Discord development.
+- ⚡ Fun fact: I enjoy creating music in my free time!
 
-![Animated Welcome GIF](https://i.imgur.com/adlcJGY.gif)
+## 🔧 Tech Stack
+- **Languages**: Python, JavaScript
+- **Frameworks**: Flask, Django, React
+- **Tools**: Git, Docker, VS Code
 
-<p align="center">
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-3498db?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
+## 📚 Projects
+- [Discord Bot - Anime Runner](https://github.com/yourusername/AnimeRunner): A bot that provides anime-related stats and notifications.
+- [Machine Learning Projects](https://github.com/yourusername/MachineLearning): Various machine learning projects showcasing different algorithms and datasets.
 
----
+## 📊 GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-## 🛠 Tech Stack
+## 🌐 Connect with Me
+- [LinkedIn](https://linkedin.com/in/yourusername)
+- [Twitter](https://twitter.com/yourusername)
 
-```yaml
-# Languages & Tools
-- Python
-- JavaScript
-- HTML/CSS
-- Node.js
-- Docker
-- Git
+<!-- Sci-Fi Font Styling -->
+<div style="font-family: 'Courier New', monospace; font-size: 24px; text-align: center; margin-top: 50px;">
+    <strong>I use Arch BTW 😉</strong>
+</div>
