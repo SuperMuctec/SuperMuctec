@@ -2,6 +2,8 @@
 
 I'm Supermuctec, a passionate Python Developer with over 4 years of experience in creating innovative solutions.
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+harry.;I+like+to+code+Discord+bots.;I+make+GUIs.;I+use+Arch+BTW;I'm+a+member+of+1001001+Development+team.)](https://discord.com/oauth2/authorize?client_id=1072462964789096538&permissions=595374238465143&integration_type=0&scope=bot)
+
 ## 🚀 About Me
 - 🔭 I’m currently working on: A Discord bot that enhances user experience.
 - 🌱 I’m learning: Machine Learning and AI.
