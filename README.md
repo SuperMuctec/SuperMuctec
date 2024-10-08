@@ -1,6 +1,6 @@
 <!-- Banner or Header Image (optional, upload a custom image to your GitHub or use an external image) -->
 <p align="center">
-  <img src="https://imgur.com/adlcJGY" alt="Header Image" />
+  ![Animated Link]((https://imgur.com/adlcJGY)
 </p>
 
 # Hi, I'm [Your Name] 👋
