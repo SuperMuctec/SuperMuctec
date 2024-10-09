@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-<a href="https://pythondiscord.com"><img style="height: 98px;" align="right" src="https://github.com/SuperMuctec/SuperMuctec/blob/main/aesthetic-anime-character-gaming.jpg">></a>
+<a href="https://pythondiscord.com"><img style="height: 220px;" align="right" src="https://github.com/SuperMuctec/SuperMuctec/blob/main/aesthetic-anime-character-gaming.jpg"></a>
 
 I'm Supermuctec, a passionate Python Developer with over 4 years of experience in creating innovative solutions.
 
