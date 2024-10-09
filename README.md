@@ -1,5 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
+<a href="https://pythondiscord.com"><img width="240" align="right" src="https://github.com/lemonsaurus/lemonsaurus/blob/main/ducky.png?raw=true"></a>
+
 I'm Supermuctec, a passionate Python Developer with over 4 years of experience in creating innovative solutions.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=16&vCenter=true&height=16&lines=Hi+there%2C+I'm+Supermuctec.;I+like+to+code+Discord+bots.;I+make+GUIs.;I+Like+To+Play+Minecraft+Lifesteal+💔;I'm+a+member+of+Anime+Runner+Development+team.;I+use+Arch+BTW...;)](https://discord.com/oauth2/authorize?client_id=1072462964789096538&permissions=595374238465143&integration_type=0&scope=bot)
