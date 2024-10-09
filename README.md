@@ -1,10 +1,10 @@
 # Welcome to My GitHub Profile! 👋
 
-<a href="https://pythondiscord.com"><img width="240" align="right" src="https://github.com/SuperMuctec/SuperMuctec/blob/main/aesthetic-anime-character-gaming.jpg"></a>
+<a href="https://pythondiscord.com"><img style="height: 98px;" align="right" src="https://github.com/SuperMuctec/SuperMuctec/blob/main/aesthetic-anime-character-gaming.jpg">></a>
 
 I'm Supermuctec, a passionate Python Developer with over 4 years of experience in creating innovative solutions.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=16&vCenter=true&height=16&lines=Hi+there%2C+I'm+Supermuctec.;I+like+to+code+Discord+bots.;I+make+GUIs.;I+Like+To+Play+Minecraft+Lifesteal+💔;I'm+a+member+of+Anime+Runner+Development+team.;I+use+Arch+BTW...;)](https://discord.com/oauth2/authorize?client_id=1072462964789096538&permissions=595374238465143&integration_type=0&scope=bot)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=16&vCenter=true&height=16&lines=Hi+there%2C+I'm+Supermuctec.;I+like+to+code+Discord+bots.;I+make+GUIs.;I+Like+To+Play+Minecraft+Lifesteal;I'm+a+member+of+Anime+Runner+Development+team.;I+use+Arch+BTW...;)](https://discord.com/oauth2/authorize?client_id=1072462964789096538&permissions=595374238465143&integration_type=0&scope=bot)
 
 **  🚀 About Me **
 
