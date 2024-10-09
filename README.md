@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-<a href="https://pythondiscord.com"><img style="height: 220px;" align="right" src="https://github.com/SuperMuctec/SuperMuctec/blob/main/aesthetic-anime-character-gaming.jpg"></a>
+<a href="https://pythondiscord.com"><img style="height: 620px;" align="right" src="https://github.com/SuperMuctec/SuperMuctec/blob/main/aesthetic-anime-character-gaming.jpg"></a>
 
 I'm Supermuctec, a passionate Python Developer with over 4 years of experience in creating innovative solutions.
 
@@ -10,7 +10,7 @@ I'm Supermuctec, a passionate Python Developer with over 4 years of experience i
 
 - 🔭 I’m currently working on: A Discord bot that enhances user experience.
 - 🌱 I’m learning: Machine Learning and AI.
-- 👯 I’m looking to collaborate on: Open source projects and interesting challenges.
+- 👯 I’m looking to collaborate on: Making Stock Predictors.
 - 💬 Ask me about: Python, GUIs, and Discord development.
 - ⚡ Fun fact: I enjoy playing Minecraft Lifesteal.
 
