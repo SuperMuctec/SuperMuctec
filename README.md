@@ -23,7 +23,7 @@ I'm Supermuctec, a passionate Python Developer with over 4 years of experience i
 - [Discord Bot - Weather Forecast](https://github.com/SuperMuctec/Weather-Forecast/): A simple weather forecast app in Java (My Second Language)
 
 ## 📊 GitHub Stats
-![Supermuctec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supermutec&show_icons=true&theme=cobalt)
+![Supermuctec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supermutec&show_icons=true&theme=cobalt&cache_seconds=5)
 
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@_TheBritGuy_)
