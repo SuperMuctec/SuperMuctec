@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-<a href="https://pythondiscord.com"><img width="240" align="right" src="https://github.com/lemonsaurus/lemonsaurus/blob/main/ducky.png?raw=true"></a>
+<a href="https://pythondiscord.com"><img width="240" align="right" src="https://github.com/SuperMuctec/SuperMuctec/blob/main/aesthetic-anime-character-gaming.jpg"></a>
 
 I'm Supermuctec, a passionate Python Developer with over 4 years of experience in creating innovative solutions.
 
@@ -24,8 +24,6 @@ I'm Supermuctec, a passionate Python Developer with over 4 years of experience i
 
 ## 📊 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Profile Banner](https://github.com/SuperMuctec/SuperMuctec/blob/main/aesthetic-anime-character-gaming.jpg)
 
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@_TheBritGuy_)
